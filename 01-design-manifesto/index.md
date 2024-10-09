@@ -2,7 +2,7 @@
 
 by Justin Gagne
 
-## First Thinngs First
+## First Things First
 
 > This is a quote
 >
