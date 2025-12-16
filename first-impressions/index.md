@@ -18,7 +18,7 @@ Something about me, and something about my work…
 
 ### First Impressions
 
-My voice, tone, style, and work.
+A warm-up to my voice, tone, style, and work.
 
 - [Meaningful Name](meaningful-name.md)
 
