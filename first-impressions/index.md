@@ -16,5 +16,5 @@ For example:
 
 Something, something…
 
-- [Draft](meaningful-name-draft.pdf)
-- [Revision](meaningful-name-revision.pdf)
+- [Draft](meaningful-name-draft.pdf) (PDF)
+- [Revision](meaningful-name-revision.pdf) (PDF)
