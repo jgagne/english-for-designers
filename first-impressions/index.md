@@ -10,11 +10,25 @@ For example:
 >
 > Source: [Meagan Fisher Couldwell](https://owltastic.com)
 
-- [About](about.md)
+- [About](about)
 
 ## My Work
 
-Something, something…
+Something about me, and something about my work…
 
-- [Draft](meaningful-name-draft.pdf) (PDF)
-- [Revision](meaningful-name-revision.pdf) (PDF)
+### First Impressions
+
+My voice, tone, style, and work.
+
+- [Meaningful Name](meaningful-name)
+
+### PDFs
+
+For completeness, my process…
+
+- [Draft](meaningful-name-draft.pdf)
+- [Revision](meaningful-name-revision.pdf)
+
+### My Portfilio
+
+- [example.com](https://example.com]
