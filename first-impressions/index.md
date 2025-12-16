@@ -10,7 +10,7 @@ For example:
 >
 > Source: [Meagan Fisher Couldwell](https://owltastic.com)
 
-- [About](about.md]
+- [About](about.md)
 
 ## My Work
 
