@@ -10,7 +10,7 @@ For example:
 >
 > Source: [Meagan Fisher Couldwell](https://owltastic.com)
 
-- [About](about)
+- [About](about.md)
 
 ## My Work
 
@@ -20,7 +20,7 @@ Something about me, and something about my work…
 
 My voice, tone, style, and work.
 
-- [Meaningful Name](meaningful-name)
+- [Meaningful Name](meaningful-name.md)
 
 ### PDFs
 
