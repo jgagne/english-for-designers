@@ -29,6 +29,6 @@ For completeness, my process…
 - [Draft](meaningful-name-draft.pdf)
 - [Revision](meaningful-name-revision.pdf)
 
-### My Portfilio
+### My Portfolio
 
 - [example.com](https://example.com)
