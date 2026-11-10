@@ -1,6 +1,6 @@
 # Letterform & Haiku
 
-![This is your alt text description.](img/q.svg)
+![Tall, dark, and chunky capital letter Q.](img/q.svg)
 
 A mirror of lines  
 My letters dance the wrong way  
